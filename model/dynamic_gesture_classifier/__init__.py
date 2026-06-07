@@ -1,0 +1,1 @@
+from model.dynamic_gesture_classifier.dynamic_gesture_classifier import DynamicGestureClassifier
